@@ -1,4 +1,4 @@
-# ElixirTravis
+# ElixirTravis [![Build Status](https://travis-ci.org/haavars/travis-elixir.svg?branch=master)](https://travis-ci.org/haavars/travis-elixir)
 
 **TODO: Add description**
 
